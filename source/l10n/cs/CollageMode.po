@@ -871,7 +871,7 @@ msgstr ""
 msgctxt "Collage/MAP/DOOMED_B1"
 msgid "Doomed - B1"
 msgstr ""
-"Prokleté – P1"
+"Prokleté – S1"
 
 msgctxt "Collage/MAP/DOOMED_F1"
 msgid "Doomed - F1"
